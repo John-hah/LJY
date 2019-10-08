@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到刘峻沂的github主页
 
 You can use the [editor on GitHub](https://github.com/John-hah/LJY/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
